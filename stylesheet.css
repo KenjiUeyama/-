@@ -1,0 +1,25 @@
+.header {
+    background-color: #01B1AF ;
+    text-align: center;
+
+}
+
+.body {
+    text-align: left;
+
+    margin-top: 5px;
+    margin: 1% 1% 1% 1%;
+    padding-left: 1%
+}
+
+.question {
+    background-color: lightgrey
+    padding-left: 10px
+}
+
+button {
+    background-color: #01B1AF ;
+    font-size: 2rem;
+    margin-top: 3%;
+    position: relative;
+}
